@@ -1,0 +1,16 @@
+@font-face {
+    font-family: VectorFont;
+    src: url(font/Vectorb.ttf);
+}
+canvas {
+    display: block;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    background-color: black;
+}
